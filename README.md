@@ -1,1 +1,2 @@
 # test-mergify
+some text
